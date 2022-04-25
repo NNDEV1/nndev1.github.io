@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a6005f5.chunk.css",
+    "main.js": "/static/js/main.51be0035.chunk.js",
+    "main.js.map": "/static/js/main.51be0035.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2e91519.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2e91519.js.map",
+    "static/js/2.78068198.chunk.js": "/static/js/2.78068198.chunk.js",
+    "static/js/2.78068198.chunk.js.map": "/static/js/2.78068198.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.a397ab76.chunk.js": "/static/js/3.a397ab76.chunk.js",
+    "static/js/3.a397ab76.chunk.js.map": "/static/js/3.a397ab76.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.20d71466.chunk.js": "/static/js/4.20d71466.chunk.js",
+    "static/js/4.20d71466.chunk.js.map": "/static/js/4.20d71466.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8814858464f4c2d5e2362f9d79e580de.js": "/precache-manifest.8814858464f4c2d5e2362f9d79e580de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.1a6005f5.chunk.css.map": "/static/css/main.1a6005f5.chunk.css.map",
+    "static/js/2.78068198.chunk.js.LICENSE.txt": "/static/js/2.78068198.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/codlyLogo.png": "/static/media/codlyLogo.4e572039.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/enloeLogo.jpeg": "/static/media/enloeLogo.2334c251.jpeg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/qandmedicaidLogo.png": "/static/media/qandmedicaidLogo.c5ceddd9.png",
+    "static/media/satelliteLogo.jpeg": "/static/media/satelliteLogo.f6492351.jpeg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e91519.js",
+    "static/js/2.78068198.chunk.js",
+    "static/css/main.1a6005f5.chunk.css",
+    "static/js/main.51be0035.chunk.js"
+  ]
+}
