@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fdde9f4c.js",
+    "static/media/background.jpg": "/static/media/background.93b1bfa565da1d2d9b2f.jpg",
+    "static/media/farragut-logo.png": "/static/media/farragut-logo.d3f90ec156985ab24281.png",
+    "index.html": "/index.html",
+    "main.fdde9f4c.js.map": "/static/js/main.fdde9f4c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fdde9f4c.js"
+  ]
+}
